@@ -1,0 +1,2 @@
+Auto-respone: if anyone is using xampp the quick way to fix this is open php.ini and uncomment:
+extension=intl
